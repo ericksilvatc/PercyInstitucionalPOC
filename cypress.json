@@ -1,0 +1,6 @@
+{
+    "baseUrl" : "https://tc-institutional-git-feat-sprint-instituciona-ideas-tradersclub.vercel.app/ideas",
+    "viewportWidth" : 1280,
+    "viewportHeight" : 600,
+    "defaultCommandTimeout": 10000
+}

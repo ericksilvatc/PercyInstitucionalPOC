@@ -1,0 +1,31 @@
+{
+  "name": "percyinstitucionalpoc",
+  "version": "1.0.0",
+  "description": "Projeto de Percy com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "percy cypress -- cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericksilvatc/PercyInstitucionalPOC.git"
+  },
+  "keywords": [
+    "cypress",
+    "percy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericksilvatc/PercyInstitucionalPOC/issues"
+  },
+  "homepage": "https://github.com/ericksilvatc/PercyInstitucionalPOC#readme",
+  "devDependencies": {
+    "@percy/cypress": "^3.1.1",
+    "cypress": "^9.3.1",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/steps"
+  }
+}
