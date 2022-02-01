@@ -1,0 +1,9 @@
+class IdeasAnaliseTecnicaElements{
+
+    btnAceitarCookies = () => {return ".cSfqzy > .eCRYpu"}
+    btnRecusarCookies = () => {return ".sc-bdnxRM lknWOy"}
+
+
+}
+
+export default IdeasAnaliseTecnicaElements;

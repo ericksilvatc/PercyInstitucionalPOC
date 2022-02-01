@@ -1,4 +1,4 @@
-class IdeasMaisLidasElements{
+class IdeasMaisComentadasElements{
 
     btnAceitarCookies = () => {return ".gXUHeX"}
     btnRecusarCookies = () => {return ".sc-bdnxRM lknWOy"}
@@ -6,4 +6,4 @@ class IdeasMaisLidasElements{
 
 }
 
-export default IdeasMaisLidasElements;
+export default IdeasMaisComentadasElements;
