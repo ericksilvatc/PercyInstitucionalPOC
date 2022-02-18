@@ -11,7 +11,7 @@ const ideasMaisRecentesElements = new IdeasMaisRecentesElements
 
     aceitarCookies(){
       cy.wait(2000)
-      cy.get(ideasMaisRecentesElements.btnAceitarCookies()).click();
+      cy.contains(ideasMaisRecentesElements.btnAceitarCookies()).click();
     }
 
 

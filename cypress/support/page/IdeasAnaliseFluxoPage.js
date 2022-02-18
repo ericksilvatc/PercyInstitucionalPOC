@@ -11,7 +11,7 @@ const ideasAnaliseFluxoElements = new IdeasAnaliseFluxoElements
 
     aceitarCookies(){
       cy.wait(2000)
-      cy.get(ideasAnaliseFluxoElements.btnAceitarCookies()).click();
+      cy.contains(ideasAnaliseFluxoElements.btnAceitarCookies()).click();
     }
 
 

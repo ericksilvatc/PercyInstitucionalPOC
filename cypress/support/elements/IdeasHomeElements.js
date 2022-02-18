@@ -1,6 +1,6 @@
 class IdeasHomeElements{
 
-    btnAceitarCookies = () => {return ".dnTmwH > .eCRYpu"}
+    btnAceitarCookies = () => {return "Aceitar"}
     btnRecusarCookies = () => {return ".sc-bdnxRM lknWOy"}
 
 

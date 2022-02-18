@@ -11,7 +11,7 @@ const ideasEducacionalElements = new IdeasEducacionalElements
 
     aceitarCookies(){
       cy.wait(2000)
-      cy.get(ideasEducacionalElements.btnAceitarCookies()).click();
+      cy.contains(ideasEducacionalElements.btnAceitarCookies()).click();
     }
 
 

@@ -1,6 +1,6 @@
 class IdeasMaisComentadasElements{
 
-    btnAceitarCookies = () => {return ".gXUHeX"}
+    btnAceitarCookies = () => {return "Aceitar"}
     btnRecusarCookies = () => {return ".sc-bdnxRM lknWOy"}
 
 

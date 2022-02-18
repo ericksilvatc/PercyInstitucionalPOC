@@ -11,7 +11,7 @@ const ideasPrincipaisIdeasElements = new IdeasPrincipaisIdeasElements
 
     aceitarCookies(){
       cy.wait(2000)
-      cy.get(ideasPrincipaisIdeasElements.btnAceitarCookies()).click();
+      cy.contains(ideasPrincipaisIdeasElements.btnAceitarCookies()).click();
     }
 
 

@@ -1,6 +1,6 @@
 class IdeasAnaliseFluxoElements{
 
-    btnAceitarCookies = () => {return ".cSfqzy > .eCRYpu"}
+    btnAceitarCookies = () => {return "Aceitar"}
     btnRecusarCookies = () => {return ".sc-bdnxRM lknWOy"}
 
 
