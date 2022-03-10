@@ -1,5 +1,5 @@
 //const ambiente = Cypress.config("baseUrl")
-import IdeasAnaliseFluxoElements from '../elements/IdeasAnaliseFluxoElements';
+import IdeasAnaliseFluxoElements from '../../elements/Ideas/IdeasAnaliseFluxoElements';
 
 const ideasAnaliseFluxoElements = new IdeasAnaliseFluxoElements
 

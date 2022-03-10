@@ -1,6 +1,6 @@
 {
     "baseUrl" : "https://tc-institutional.vercel.app/ideas",
     "viewportWidth" : 1280,
-    "viewportHeight" : 600,
+    "viewportHeight" : 768,
     "defaultCommandTimeout": 10000
 }

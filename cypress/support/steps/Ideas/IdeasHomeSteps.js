@@ -11,5 +11,5 @@ Given(/^que estou na home do TC Ideas$/, () => {
 
 Then(/^valido a pagina inicial do Ideas$/, () => {
 	cy.screenshot();
-	cy.percySnapshot();
+
 });
