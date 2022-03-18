@@ -1,5 +1,5 @@
 //const ambiente = Cypress.config("baseUrl")
-import IdeasMaisLidasElements from '../elements/IdeasMaisLidasElements';
+import IdeasMaisLidasElements from '../../elements/Ideas/IdeasMaisLidasElements';
 
 const ideasMaisLidasElements = new IdeasMaisLidasElements
 
