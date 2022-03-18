@@ -1,6 +1,6 @@
 /* global Given, When, Then, And */
 
-import IdeasAnaliseFundamentalistaPage from '../page/IdeasAnaliseFundamentalistaPage'
+import IdeasAnaliseFundamentalistaPage from '../../page/Ideas/IdeasAnaliseFundamentalistaPage'
 const ideasAnaliseFundamentalistaPage = new IdeasAnaliseFundamentalistaPage
 
 
